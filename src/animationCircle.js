@@ -40,7 +40,6 @@ export default function AnimationCircle() {
     <div style={{ height: "200vh", padding: "100px" }}>
       <div
         style={{
-          position: "sticky",
           position: "relative",
           paddingTop:'2.5em',
           height: 100,
